@@ -11,5 +11,5 @@ sector_etfs = {
     "Communciation Services": "EWCO",
     "Utilities": "XLU",
     "Tech": "QQQ", 
-    "Tesla": "TSLA"
+#    "Tesla": "TSLA"
 }
